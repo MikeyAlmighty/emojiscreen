@@ -546,20 +546,12 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1991410/"
   },
   {
-    title: "Deadwood",
-    emojiImgs: "🤠🔫⚰️",
-    genres: ["drama", "crime", "history"],
-    type: "tv",
-    year: 2004,
-    itemLink: "https://www.imdb.com/title/tt0348914/"
-  },
-  {
     title: "Dark Phoenix",
     emojiImgs: "🕶️☀️🔥 ",
     genres: ["sci-fi", "action", "adventure"],
     type: "movie",
     year: 2019,
-    itemLink: "https://www.imdb.com/title/tt6565702/?ref_=ttls_li_tt"
+    itemLink: "https://www.imdb.com/title/tt6565702"
   },
   {
     title: "Deadpool",
@@ -578,26 +570,28 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt5463162/?ref_=ttls_li_tt"
   },
   {
+    title: "Deadwood",
+    emojiImgs: "🤠🔫⚰️",
+    genres: ["drama", "crime", "history"],
+    type: "tv",
+    year: 2004,
+    itemLink: "https://www.imdb.com/title/tt0348914/"
+  },
+  {
     title: "Dear Evan Hansen",
     emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
     genres: ["drama", "musical"],
     type: "musical",
-    year: 2015
-  },
+    year: 2015,
+    itemLink: "https://www.imdb.com/title/tt9357050/"
+},
   {
     title: "Devil Wears Prada",
     emojiImgs: "😈💄👠🧣👓",
     genres: ["comedy", "drama"],
     type: "movie",
-    year: 2006
-  },
-  {
-    title: "Dinosaurs",
-    emojiImgs: "🦖⛰️😂",
-    genres: ["Comedy", "Family", "Fantasy "],
-    itemLink: "https://www.imdb.com/title/tt0101081/",
-    type: "tv",
-    year: 1991
+    year: 2006,
+    itemLink: "https://www.imdb.com/title/tt0458352"
   },
   {
     title: "Dil Dhadakne Do",
@@ -616,27 +610,20 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0112870/"
   },
   {
+    title: "Dinosaurs",
+    emojiImgs: "🦖⛰️😂",
+    genres: ["Comedy", "Family", "Fantasy "],
+    itemLink: "https://www.imdb.com/title/tt0101081/",
+    type: "tv",
+    year: 1991
+  },
+  {
     title: "Dirty Dancing",
     emojiImgs: "🍉💃🕶🕺👶",
     genres: ["drama", "music", "romance"],
     type: "movie",
-    year: 1987
-  },
-  {
-    title: "Donnie Darko",
-    emojiImgs: "✈💥🐰✈💥",
-    genres: ["Drama", "Sci-Fi", "Thriller"],
-    type: "movie",
-    year: 2001,
-    itemLink: "https://www.imdb.com/title/tt0246578/"
-  },
-  {
-    title: "Doctor Who",
-    emojiImgs: "👶⚡️🚀🌍‍",
-    genres: ["adventure", "drama", "family"],
-    type: "tv",
-    year: 2005,
-    itemLink: "https://www.imdb.com/title/tt0436992/"
+    year: 1987,
+    itemLink: "https://www.imdb.com/title/tt0092890"
   },
   {
     title: "Doctor Strange",
@@ -647,11 +634,28 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt1211837/"
   },
   {
+    title: "Doctor Who",
+    emojiImgs: "👶⚡️🚀🌍‍",
+    genres: ["adventure", "drama", "family"],
+    type: "tv",
+    year: 2005,
+    itemLink: "https://www.imdb.com/title/tt0436992/"
+  },
+  {
+    title: "Donnie Darko",
+    emojiImgs: "✈💥🐰✈💥",
+    genres: ["Drama", "Sci-Fi", "Thriller"],
+    type: "movie",
+    year: 2001,
+    itemLink: "https://www.imdb.com/title/tt0246578/"
+  },
+  {
     title: "Dora and the Lost City of Gold",
     emojiImgs: "👧🐒🏕️🏰💰",
     genres: ["fantasy", "adventure", "comedy"],
     type: "movie",
-    year: 2019
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt7547410"
   },
   {
     title: "Dreams",
@@ -668,6 +672,14 @@ const emojiItems = [
     type: "movie",
     year: 2000,
     itemLink: "https://www.imdb.com/title/tt0242423/"
+  },
+  {
+    title: "Edward Sicssorhands",
+    emojiImgs: "👦✂🙌",
+    genres: ["drama", "fantasy", "romance"],
+    itemLink: "https://www.imdb.com/title/tt0099487/",
+    type: "movie",
+    year: 1990
   },
   {
     title: "The Emoji Movie",
@@ -690,15 +702,8 @@ const emojiItems = [
     emojiImgs: "🌙🚲👉🏻👈🏻👽",
     genres: ["family", "sci-fi"],
     type: "movie",
-    year: 1982
-  },
-  {
-    title: "Edward Sicssorhands",
-    emojiImgs: "👦✂🙌",
-    genres: ["drama", "fantasy", "romance"],
-    itemLink: "https://www.imdb.com/title/tt0099487/",
-    type: "movie",
-    year: 1990
+    year: 1982,
+    itemLink: "https://www.imdb.com/title/tt0083866"
   },
   {
     title: "Fantastic Beasts and Where to Find Them",
@@ -721,51 +726,40 @@ const emojiItems = [
     emojiImgs: "🚔🌳👶🏻⚰️",
     genres: ["crime", "drama", "thriller"],
     type: "movie",
-    year: 1996
+    year: 1996,
+    itemLink: "https://www.imdb.com/title/tt0116282"
   },
   {
     title: "The Fast and the Furious",
     emojiImgs: "🚗💨😡",
     genres: ["action", "crime", "thriller"],
     type: "movie",
-    year: 2001
+    year: 2001,
+    itemLink: "https://www.imdb.com/title/tt0232500"
   },
   {
     title: "Fight Club",
     emojiImgs: "🥊🧼🤐",
     genres: ["drama"],
     type: "movie",
-    year: 1999
+    year: 1999,
+    itemLink: "https://www.imdb.com/title/tt0137523"
   },
   {
     title: "Finding Nemo",
     emojiImgs: "🐟🦈🔭",
     genres: ["animation"],
     type: "movie",
-    year: 2003
+    year: 2003,
+    itemLink: "https://www.imdb.com/title/tt0266543"
   },
   {
-    title: "Five Feet Apart ",
-    emojiImgs: "🏣🧒5⃣👧💞",
-    genres: ["Drama", "Romance", "Comedy"],
-    type: "movie",
-    year: 2019
-  },
-  {
-    title: "The Fresh Prince of Bel-Air",
-    emojiImgs: "👑🛎💨‍",
-    genres: ["comedy"],
-    type: "tv",
-    year: 1990,
-    itemLink: "https://www.imdb.com/title/tt0098800/"
-  },
-  {
-    title: "From Dusk Till Down",
-    emojiImgs: "🧛‍♀️🩸🦶🏻",
-    genres: ["action", "crime", "horror"],
-    itemLink: "https://www.imdb.com/title/tt0116367/",
-    type: "movie",
-    year: 1996
+    title: "Firebringer",
+    emojiImgs: "🦆🕊️⚔️🔥👽",
+    genres: ["musical", "comedy", "history"],
+    type: "musical",
+    year: 2016,
+    itemLink: "https://www.imdb.com/title/tt6395628/"
   },
   {
     title: "Forrest Gump",
@@ -774,6 +768,14 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0109830/",
     type: "movie",
     year: 1994
+  },
+  {
+    title: "Five Feet Apart ",
+    emojiImgs: "🏣🧒5⃣👧💞",
+    genres: ["Drama", "Romance", "Comedy"],
+    type: "movie",
+    year: 2019,
+    itemLink: "https://www.imdb.com/title/tt6472976/"
   },
   {
     title: "Flight of the Conchords",
@@ -792,19 +794,28 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0109831/"
   },
   {
+    title: "The Fresh Prince of Bel-Air",
+    emojiImgs: "👑🛎💨‍",
+    genres: ["comedy"],
+    type: "tv",
+    year: 1990,
+    itemLink: "https://www.imdb.com/title/tt0098800/"
+  },
+  {
+    title: "From Dusk Till Down",
+    emojiImgs: "🧛‍♀️🩸🦶🏻",
+    genres: ["action", "crime", "horror"],
+    itemLink: "https://www.imdb.com/title/tt0116367/",
+    type: "movie",
+    year: 1996
+  },
+  {
     title: "Frozen",
     emojiImgs: "👭☃️❄️",
     genres: ["animation", "adventure", "comedy"],
     type: "movie",
-    year: 2013
-  },
-  {
-    title: "Firebringer",
-    emojiImgs: "🦆🕊️⚔️🔥👽",
-    genres: ["musical", "comedy", "history"],
-    type: "musical",
-    year: 2016,
-    itemLink: "https://www.imdb.com/title/tt6395628/"
+    year: 2013,
+    itemLink: "https://www.imdb.com/title/tt2294629"
   },
   {
     title: "Game of Thrones",
