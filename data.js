@@ -217,70 +217,80 @@ const emojiItems = [
         emojiImgs: "💌⚰️👨‍👩‍👧‍👦💻💞",
         genres: ["drama", "musical"],
         type: "musical",
-        year: 2015
+        year: 2015,
+        itemLink: "https://www.imdb.com/title/tt9357050/"
     },
     {
         title: "Devil Wears Prada",
         emojiImgs: "😈💄👠🧣👓",
         genres: ["comedy", "drama"],
         type: "movie",
-        year: 2006
+        year: 2006,
+        itemLink: "https://www.imdb.com/title/tt0458352"
     },
     {
         title: "Dirty Dancing",
         emojiImgs: "🍉💃🕶🕺👶",
         genres: ["drama", "music", "romance"],
         type: "movie",
-        year: 1987
+        year: 1987,
+        itemLink: "https://www.imdb.com/title/tt0092890"
     },
     {
         title: "Dora and the Lost City of Gold",
         emojiImgs: "👧🐒🏕️🏰💰",
         genres: ["fantasy", "adventure", "comedy"],
         type: "movie",
-        year: 2019
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt7547410"
     },
     {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["family", "sci-fi"],
         type: "movie",
-        year: 1982
+        year: 1982,
+        itemLink: "https://www.imdb.com/title/tt0083866"
     },
     {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
         genres: ["crime", "drama", "thriller"],
         type: "movie",
-        year: 1996
+        year: 1996,
+        itemLink: "https://www.imdb.com/title/tt0116282"
     },
     {
         title: "The Fast and the Furious",
         emojiImgs: "🚗💨😡",
         genres: ["action", "crime", "thriller"],
         type: "movie",
-        year: 2001
+        year: 2001,
+        itemLink: "https://www.imdb.com/title/tt0232500"
     },
     {
         title: "Fight Club",
         emojiImgs: "🥊🧼🤐",
         genres: ["drama"],
         type: "movie",
-        year: 1999
+        year: 1999,
+        itemLink: "https://www.imdb.com/title/tt0137523"
     },
     {
         title: "Finding Nemo",
         emojiImgs: "🐟🦈🔭",
         genres: ["animation"],
         type: "movie",
-        year: 2003
+        year: 2003,
+        itemLink: "https://www.imdb.com/title/tt0266543"
     },
     {
         title: "Frozen",
         emojiImgs: "👭☃️❄️",
         genres: ["animation", "adventure", "comedy"],
         type: "movie",
-        year: 2013
+        year: 2013,
+        itemLink: "https://www.imdb.com/title/tt2294629"
     },
     {
         title: "Game of Thrones",
